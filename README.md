@@ -1,1 +1,1 @@
-I bunch of practice projects im doing to get familiar with Swift App Dev
+A simple Swift app I created while experimenting with Swift.
